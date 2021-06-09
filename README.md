@@ -1,9 +1,10 @@
 ### Hi dear 👋 , I'm Ana Cristina
 
 
+I live in Brazil
 📫 How to reach me anacristinamouraa2@gmail.com
 
-react css html javascript 
+ 
 
 <!--
 **anacristinamouraa/anacristinamouraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
