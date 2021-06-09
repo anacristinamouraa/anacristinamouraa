@@ -1,5 +1,8 @@
 ### Hi dear 👋 , I'm Ana Cristina
 
+
+📫 How to reach me anacristinamouraa2@gmail.com
+
 <!--
 **anacristinamouraa/anacristinamouraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
