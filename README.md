@@ -3,7 +3,7 @@
 
 I live in Brazil
 
-- 📫 How to reach me:**https://www.linkedin.com/in/ana-cristina-moura-8146841b5/
+
 
 
 
