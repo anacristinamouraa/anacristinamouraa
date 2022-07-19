@@ -5,7 +5,7 @@ I live in Brazil
 
 - 💻 Desenvolvedora web;
 - 🛠 JavaScript | ReactJS | MySql | Html | Css | Php |
-- 🧑🏾‍💻 Front-End Júnior;
+- 🧑🏾‍💻 FullStack Jr;
 - 📝 Graduanda em Análise e Desenvolvimento de Sistemas;
 - ✨ Sei onde quero chegar e esse caminho  me reserva ensinamentos rumo ao meu desenvolvimento;
 
